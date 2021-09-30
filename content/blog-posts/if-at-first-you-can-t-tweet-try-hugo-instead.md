@@ -2,7 +2,7 @@
 author = "Tim Rohe"
 date = 2021-09-30T03:00:00Z
 draft = true
-hero = "/images/d1c61c2a-ef20-449c-8ec5-7c9b429b061e.png"
+hero = "/images/092fb96e-2fcd-4689-bbf3-16801c20830e.png"
 title = "If At First You Can’t Tweet, Try Hugo Instead"
 type = "blog"
 
