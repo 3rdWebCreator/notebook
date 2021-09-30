@@ -15,6 +15,6 @@ Ironically, getting blocked by a social network is the perfect beginning for the
 
 Think of _Creator_ as a new take on Kevin Kelly’s concept of “One Thousand True Fans“ with tools from the blockchain era. At least, that’s the idea I was trying to tweet about. 
 
-Naturally I decided to abandon Twitter for a Web 3 microblog built with Hugo, and hosted on IPFS.
+Naturally getting blocked led me to abandon Twitter for a Web 3 microblog built with Hugo, and hosted on IPFS.
 
 This is that microblog, which I am simply calling _Notebook._ Inspired by the writings of Seth Godin and Austin Klein, I want to “put myself on the hook,” and “show my work.” The posts will be raw, but close to real time. And while my words may be harder to find here on the 3rd web, they’ll never be blocked by Twitter. If that sort of thing interests you, I hope you will come back to follow along. 
