@@ -11,6 +11,10 @@ I tried, and failed to tweet last night. For some reason, which is still unclear
 
 Ironically, getting blocked by a social network is the perfect beginning for the new project I was trying to tweet about.
 
- I am working on an experimental digital “magazine“ called _Creator._ It will document the transition to Web 3 for content creators that want their own publishing platform. It’s for those that want an audience to be able to own, archive, collect and even resell their work.
+ I am working on an experimental digital “magazine“ called _Creator._ It will document the transition to Web 3 for content creators that want their own publishing platform. _The_ magazine will be a case study on how to publish (or mint) work that an audience can own, archive, collect and even resell for a profit.
 
- I want to re-examine Kevin Kelly’s concept of “One Thousand True Fans“ with tools from the blockchain era. At least, that’s the idea I was trying to tweet about. It’s only fitting then that I abandon Twitter for a Web 3 microblog built with Hugo, and hosted on IPFS.
+ It’s a new take on Kevin Kelly’s concept of “One Thousand True Fans“ with tools from the blockchain era. At least, that’s the idea I was trying to tweet about. 
+
+It’s only fitting then that I abandon Twitter for a Web 3 microblog built with Hugo, and hosted on IPFS.
+
+This is that microblog, which I am simply calling _Notebook._ Inspired by the writings of Seth Godin and Austin Klein, I want to put myself on the hook, and show my work.  
