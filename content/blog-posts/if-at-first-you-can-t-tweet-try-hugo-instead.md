@@ -7,7 +7,7 @@ title = "If At First You Can’t Tweet, Try Hugo Instead"
 type = "blog"
 
 +++
-I tried, and failed to tweet last night. For some reason, which is still unclear to me, Twitter wouldn’t let my account post anything.
+I tried, and failed to tweet last night. For no apparent reason, Twitter wouldn’t let my account post anything.
 
 Ironically, getting blocked by a social network is the perfect beginning for the new project I was trying to tweet about.
 
