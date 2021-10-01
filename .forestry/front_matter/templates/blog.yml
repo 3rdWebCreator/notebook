@@ -32,3 +32,4 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/if-at-first-you-can-t-tweet-try-hugo-instead.md
+- content/blog-posts/zero-fiddling.md
