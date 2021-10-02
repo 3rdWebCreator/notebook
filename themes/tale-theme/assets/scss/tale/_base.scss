@@ -81,16 +81,19 @@ p {
 }
 
 a {
-  text-decoration: none;
+  background-color: transparent;
   color: inherit;
-  opacity: 1;
-  transition: opacity .2s ease;
+  text-decoration: none;
+  transition: background .15s cubic-bezier(.33,.66,.66,1);
+  border-bottom: 1px solid #ffde00;
+  box-shadow: inset 0 -9px 0 #ffde00;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  word-wrap: break-word;
 }
 
 a:hover {
-  opacity: .5;
-  transition: opacity .2s ease;
-  text-decoration-color: inherit;
+ background-color: #ffde00;
 }
 
 ul {
