@@ -1,7 +1,6 @@
 +++
 author = "Tim Rohe"
 date = 2021-10-01T04:00:00Z
-draft = true
 hero = "/images/e3e6cce7-7e97-4f81-aa59-5aa7df03a1b0.png"
 title = "Zero Fiddling "
 type = "blog"
