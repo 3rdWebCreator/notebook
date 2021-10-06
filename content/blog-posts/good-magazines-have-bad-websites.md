@@ -9,7 +9,7 @@ type = "blog"
 +++
 Have you tried visiting the website of a major magazine lately? It’s a disaster. There are pop-ups and ads loading everywhere.
 
-But turn on reader mode in your browser and suddenly the content shines again. Reading the articles is so much more enjoyable without all the junk cluttering everything up. 
+But turn on reader mode in your browser and suddenly the content shines again. Reading the articles is so much more enjoyable without all the junk. 
 
 That was my goal for _Notebook._ After some subtle CSS alterations it pretty much looks like reader mode in Firefox. 
 
