@@ -1,6 +1,6 @@
 +++
 author = "Tim Rohe"
-date = ""
+date = 2021-10-06T02:00:00Z
 draft = true
 hero = ""
 title = "Good Magazines Have Bad Websites"
