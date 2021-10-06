@@ -41,6 +41,7 @@
  a {
   background-color: transparent;
   color: inherit;
+  font-weight: bold;
   text-decoration: none;
   transition: background .15s cubic-bezier(.33,.66,.66,1);
   border-bottom: 1px solid #ffde00;
@@ -70,7 +71,7 @@ a:hover {
     }
     p {
         color: #464646;
-        font-weight: normal;
+        //font-weight: normal;
         img {
           padding: 1rem 0;
         }
