@@ -7,7 +7,7 @@ title = "Good Magazines Have Bad Websites"
 type = "blog"
 
 +++
-### Have you tried visiting the website of a major magazine lately?
+Have you tried visiting the website of a major magazine lately?
 
 It’s a disaster. There are pop-ups and ads loading everywhere.
 
