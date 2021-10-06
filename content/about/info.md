@@ -11,4 +11,4 @@ contact_info:
 type: ''
 
 ---
-This is a behind the scenes look at the making of _Creator_, a work-in-progress experimental magazine documenting the transition to Web 3 for… (you guessed it) …creators.
+## This is a behind the scenes look at the making of _Creator_, a work-in-progress experimental magazine documenting the transition to Web 3 for… (you guessed it) …creators.
