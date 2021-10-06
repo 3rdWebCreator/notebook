@@ -13,6 +13,6 @@ But turn on reader mode in your browser and suddenly the content shines again. R
 
 That was my goal for _Notebook._ After some subtle CSS alterations it pretty much looks like reader mode in Firefox. 
 
-One little embellishment I did allow was a low highlight on the links. The CSS truck was inspired by a WordPress theme called [Patch](https://pixelgrade.com/themes/blogging/patch/). I found a small description for how to achieve the effect [here](https://www.foxinfotech.in/2019/04/css-style-for-links-thick-underline-and-highlight-text-on-mouse-hover.html). 
+One little embellishment I did allow was a low highlight on the links. The styling was inspired by a WordPress theme called [Patch](https://pixelgrade.com/themes/blogging/patch/). I found a small description for how to achieve the effect [here](https://www.foxinfotech.in/2019/04/css-style-for-links-thick-underline-and-highlight-text-on-mouse-hover.html). 
 
 Next I plan to get this thing hosted on [Fleek](https://fleek.co/).
