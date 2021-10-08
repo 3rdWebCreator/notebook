@@ -1,7 +1,6 @@
 +++
 author = "Tim Rohe"
 date = 2021-10-06T02:00:00Z
-draft = true
 hero = "/images/9615ee14-0f08-4b1b-bd98-241a54eb2470.png"
 title = "Good Magazines Have Bad Websites"
 type = "blog"
