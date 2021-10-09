@@ -2,7 +2,7 @@
 author = "Tim Rohe"
 date = 2021-10-08T03:00:00Z
 draft = true
-hero = ""
+hero = "/images/e8687d8f-ae29-4c64-9039-daaf55a70ac3.jpeg"
 title = "Not a Developer "
 type = "blog"
 
