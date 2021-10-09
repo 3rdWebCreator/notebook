@@ -1,7 +1,7 @@
 +++
 author = "Tim Rohe"
 date = 2021-10-08T03:00:00Z
-hero = "/images/e8687d8f-ae29-4c64-9039-daaf55a70ac3.jpeg"
+hero = "/images/6fdde9f6-cfb1-4534-ba15-a00bc3108149.jpeg"
 title = "Not a Developer "
 type = "blog"
 
