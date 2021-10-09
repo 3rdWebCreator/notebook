@@ -7,7 +7,7 @@ title = "Not a Developer "
 type = "blog"
 
 +++
-Web3 still feels like the realm of developers only. It’s like you need to show your computer science degree at the door or you aren’t getting in.
+Web 3 still feels like the realm of developers only. It’s like you need to show your computer science degree at the door or you aren’t getting in.
 
 Eventually they’ll invite us regular people to come play, once the railings and rubber walls are installed. For now, you need to find a loose picket in the fence and squeeze through awkwardly.
 
