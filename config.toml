@@ -1,4 +1,5 @@
 baseURL = "/"
+relativeUrls = true
 languageCode = "en-us"
 theme = "tale-theme"
 title = "Notebook"
