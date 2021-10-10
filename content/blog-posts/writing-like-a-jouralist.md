@@ -7,11 +7,11 @@ title = "Writing Like a Journalist"
 type = "blog"
 
 +++
-Lots of people can write, but most of them are not writers. If I am writing, it’s usually advertising copy, email, reports, presentations or proposals.
+Lots of people can write, but most of them are not writers. 
 
-I definitely have not been writing magazine features. And yet, I want to try creating a third web magazine.
+I certainly have not been writing magazine features. And yet, I want to try publishing something resembling a magazine using blockchain technology.
 
-I found these two videos to be helpful while I thought about how to do it.
+I don’t want _Creator_ to be written in the style of news journalism, but it does need to be more substantive than a personal blog. As I thought about how to style the writing, I found these two videos to be helpful.
 
 * [The basics of feature writing](https://youtu.be/g3v6raB0FYI)
 * [7 Things I Learned About Journalism in 7 Years of Being a Journalist](https://youtu.be/Rr7povAInwQ)
