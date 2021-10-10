@@ -9,7 +9,9 @@ type = "blog"
 +++
 Lots of people can write, but most of them are not writers. 
 
-I certainly have not been writing magazine features. And yet, I want to try publishing something resembling a magazine using blockchain technology.
+I certainly have not been writing magazine features. 
+
+And yet, I want to try publishing something resembling a magazine using blockchain technology.
 
 I don’t want _Creator_ to be written in the style of news journalism, but it does need to be more substantive than a personal blog. As I thought about how to style the writing, I found these two videos to be helpful.
 
