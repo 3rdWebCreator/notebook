@@ -14,4 +14,4 @@ I definitely have not been writing magazine features. And yet, I want to try cre
 I found these two videos to be helpful while I thought about how to do it.
 
 * [The basics of feature writing](https://youtu.be/g3v6raB0FYI)
-* [7 things I’ve learned about journalism in 7 years of being a journalist]()
+* [7 Things I Learned About Journalism in 7 Years of Being a Journalist](https://youtu.be/Rr7povAInwQ)
